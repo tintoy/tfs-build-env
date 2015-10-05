@@ -1,0 +1,20 @@
+{
+  "name": "tfs-build-env",
+  "version": "1.0.0",
+  "description": "Information about the current TFS team build, derived from the TF_xxx environment variables.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tintoy/tfs-build-env.git"
+  },
+  "keywords": [
+    "tfs",
+    "teambuild"
+  ],
+  "author": "Adam Friedman <tintoy@tintoy.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tintoy/tfs-build-env/issues"
+  },
+  "homepage": "https://github.com/tintoy/tfs-build-env#readme"
+}
